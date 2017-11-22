@@ -25,6 +25,9 @@
     <Declaration>
         <Class IRI="#一卡通"/>
     </Declaration>
+	<Declaration>
+        <Class IRI="#测试一"/>
+    </Declaration>
     <Declaration>
         <Class IRI="#一卡通金卡"/>
     </Declaration>
